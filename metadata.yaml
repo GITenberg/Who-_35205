@@ -1,0 +1,35 @@
+_repo: Who-_35205
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cassel, John Harmon
+    birthdate: 1872
+    deathdate: 1961
+    gutenberg_agent_id: '37495'
+    url: http://www.gutenberg.org/2009/agents/37495
+covers:
+- cover_type: archival
+  image_path: 35205-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kent, Elizabeth
+    birthdate: 1875
+    deathdate: 1947
+    gutenberg_agent_id: '37531'
+    url: http://www.gutenberg.org/2009/agents/37531
+description: ''
+gutenberg_issued: '2011-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Love stories'
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Who?
+url: http://www.gutenberg.org/ebooks/35205
